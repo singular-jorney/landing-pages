@@ -23,7 +23,7 @@
         No curso <b>Francês em 3 Meses</b> eu vou te ensinar o método mão na
         massa para você aprender a se comunicar em francês com uma boa
         pronúncia, mesmo que você nunca tenha estudado ou ache uma língua
-        difícil.
+        difícil. ue
       </h3>
     </div>
   </section>
