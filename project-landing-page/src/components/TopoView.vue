@@ -59,12 +59,13 @@ a {
   height: 380px;
   background: url("@/assets/2.jpg") no-repeat center;
   background-size: cover;
+  opacity: 90%;
 }
 
 .home h1 {
   color: #ffffff;
   font-family: "Poppins", Sans-serif;
-  font-size: 2.5em;
+  font-size: 3vw;
   font-weight: 700;
   letter-spacing: 1.1px;
   padding-top: 150px;
@@ -77,6 +78,14 @@ a {
     height: 200px;
     background: url("@/assets/2.jpg") no-repeat center;
     background-size: contain;
+  }
+  .home h1 {
+    color: #ffffff;
+    font-family: "Poppins", Sans-serif;
+    font-size: 3vw;
+    font-weight: 700;
+    letter-spacing: 1.1px;
+    padding-top: 150px;
   }
 }
 </style>

@@ -20,10 +20,8 @@
             pude perceber o que funciona de verdade para eles falarem francês de
             forma fluída e prazerosa. Reuni neste curso as principais técnicas
             para você dar os primeiros passos nesta língua charmosa e conseguir
-            se comunicar em francês
+            se comunicar em francês de forma satisfatória.
           </div>
-
-          de forma satisfatória.
         </div>
         <div>
           <img
@@ -48,6 +46,7 @@ export default {
   font-weight: 500;
   letter-spacing: 0.4px;
   max-width: 480px;
+  padding: 50px;
 }
 h2 {
   font-size: 1.5em;
@@ -74,6 +73,7 @@ p {
   max-width: 960px;
   justify-content: center;
   margin: 0 auto;
+  padding: 50px;
 }
 .fotoNano {
   max-width: 360px;
